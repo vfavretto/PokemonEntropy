@@ -76,4 +76,4 @@ O projeto faz uso das seguintes bibliotecas e recursos:
 - [Biblioteca Pillow](https://pillow.readthedocs.io/)
 - [Biblioteca Scikit-image](https://scikit-image.org/)
 
-# A ideia foi inspirada no seguinte post realizado num [Forum](https://qiita.com/mrok273/items/6f0bcdc62b6184f79308) 
+A ideia foi inspirada no seguinte post realizado num [Forum](https://qiita.com/mrok273/items/6f0bcdc62b6184f79308) 
